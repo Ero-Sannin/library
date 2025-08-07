@@ -1,0 +1,15 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#output{
+    padding:20px;
+    margin:20px;
+    border:3px solid black;
+    border-radius: 10%;
+    display: flex;
+    gap:10px;
+}
+.card{
+    border:1px solid yellow;
+}
